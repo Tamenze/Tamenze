@@ -1,4 +1,12 @@
-## Hi there 👋
+### Hey, I’m Tolu
+
+- 🏅 I’ve been coding in JavaScript/Typescript for over 10 years
+- 🧐 I stay curious: I’ve also built projects in Ruby on Rails, Python, and Swift
+- 💵 The comment I wish I had a nickel for every time it’s been said to me: “Hmm, that’s a really good question.”
+- 🐰 Coolest Thing I’ve Built So Far (from a user perspective): the “rabbithole” animation you see when you click on an easter egg [here](https://www.theatlantic.com/shadowland/) (Hint: try clicking the moving eye)
+- 🎙️ Coolest Thing I’ve Built So Far (from *my* perspective): [sayWord.dev](https://www.sayWord.dev), a platform for sharing and saving meaningful lines of prose.
+- 🚌 An English teacher once taught me to “write for the stranger on the bus,” and that drives both how I code and how I think about UX: how easily will someone be able to enter this experience and comprehend it?
+
 
 <!--
 **Tamenze/Tamenze** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
